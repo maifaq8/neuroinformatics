@@ -1,0 +1,2 @@
+# neuroinformatics
+Нейроинформатика
